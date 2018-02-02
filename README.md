@@ -1,0 +1,1 @@
+CentOS Skopeo Jenkins Slave
