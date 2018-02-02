@@ -1,4 +1,4 @@
-FROM docker.io/openshift/jenkins-slave-base-centos7
+FROM docker.io/openshift/jenkins-slave-base-centos7:latest
 
 LABEL com.redhat.component="jenkins-slave-image-mgmt" \
       name="jenkins-slave-image-mgmt" \
